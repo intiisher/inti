@@ -121,11 +121,11 @@
 
                 </div>
 
-                  <div class= "form-group col-sm-6">
+<!--                   <div class= "form-group col-sm-6">
                   <!-- <label for="message" class="h4 ">Message</label> -->
                     <textarea style=" text-align: center;"  id="message" class="form-control" rows="5" placeholder="Enter your message" required></textarea>
                     <div class="help-block with-errors"></div>
-                  </div>
+                  </div> -->
                     <button type="submit" id="form-submit" class="btn btn-success btn-lg  ">Submit</button>
                     
                   <div id="msgSubmit" class="h3 text-center hidden"></div>
@@ -138,7 +138,7 @@
 
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
-          <div style="color:whitesmoke; "> <b><u>Find me in social media</u></b></div>
+          <div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div>
           <div style="text-align: center;">
             <section style="text-align: center;" >
             <ul id="services">
@@ -171,7 +171,7 @@
               <div class="row smicons">
               <section >
                 <ul id="services">
-                  
+                  <div style="color:whitesmoke; "> <b><u>My social media footprint</u></b></div>
                   
                   <li>
                     <div class="facebook" >
