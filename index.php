@@ -28,9 +28,10 @@
     <h1>Mohd Arafat Intisher</h1>
     <span class='label'>Web Developer, IT System Analyst, amateur athlete</span>
 
-    <span class='bigspan'>Nice to meet you!
-                          I am Mohammad –
-                          I create & design web applications and ideas for products, projects and people.
+    <span class='bigspan'>Nice to meet you!<br/>
+                          I am Mohammad – <br/>
+                          I create & design <br/>
+                          web applications and ideas for products, projects and people.
       
 <!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
@@ -38,9 +39,9 @@
           ➂&nbsp;administering Servers and Databases.</span> -->
   </span>
 
-    <p><a href='/work' class='bigLinkJob' style="color: #00A522;"><u> - Web Apps Developer for ORBL by day.</u></a></p>
-    <p><a href='/work' class='bigLinkUni' style="color: #00A522;"><u> - Student of Digital Entrepreneurship at EUV by night.</u></a></p>
-    <p><a href='/work' class='bigLinkAth' style="color: #00A522;"><u> - Amateur athlete throughout the week.</u></a></p>
+    <p><a href='https://orogenic.com.my/' class='bigLinkJob' style="color: #00A522;"><u> - Web Apps Developer for Orogenic Resources by day.</u></a></p>
+    <p><a href='https://europeannewschool.com/' class='bigLinkUni' style="color: #00A522;"><u> - Student of Digital Entrepreneurship at ENS by night.</u></a></p>
+    <p><a href='https://aalps.org/' class='bigLinkAth' style="color: #00A522;"><u> - Amateur athlete throughout the week.</u></a></p>
 
     <!-- <h2>Talks</h2>
 
@@ -147,7 +148,7 @@
               <i class="fa fa-phone" aria-hidden="true" ></i>
             </th>
             <th>
-              <ul style="color: #00A522; " ><strong>+ 8801710479715</strong></ul> 
+              <ul style="color: #00A522; " ><strong>8801710479715</strong></ul> 
             </th>
             
             <li>
