@@ -141,11 +141,30 @@
           <div style="text-align: center;">
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->
           <div style="text-align: center;">
-            <section >
-              <ul id="services">
-              <i class="fa fa-phone" aria-hidden="true" ></i>
-              <li>
-              <p style="color:whitesmoke; " ><strong>+8801710479715</strong></p> 
+            
+                 <table>
+        <tr>
+            <th style="text-align: center;">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+            </th>
+            <th>
+                <ul style="color: #00A522; "><strong>8801710479715</strong></ul>
+            </th>
+
+            <li>
+                <div class="phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                </div>
+                <!-- <span>Facebook</span> -->
+            </li>
+            </th>
+            <td>
+                <li>
+                    <ul style="color:whitesmoke; "><strong>+8801710479715</strong></ul>
+                </li>
+            </td>
+        </tr>
+    </table> 
               </li>
             
           </section >
