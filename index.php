@@ -175,7 +175,7 @@
                   
                   <li>
                     <div class="facebook" >
-                      <a href="https://facebook.com/colorlib/">
+                      <a href="https://facebook.com/intisher/">
                         <i class="fa fa-facebook " aria-hidden="true" ></i>
                       </a>
                     </div>
@@ -183,7 +183,7 @@
                   </li>
                   <li>
                     <div class="twitter">
-                      <a href="https://twitter.com/colorlib/">
+                      <a href="https://twitter.com/MIntisher/">
                         <i class="fa fa-twitter" aria-hidden="true"></i>
                       </a>
                     </div>
@@ -191,7 +191,7 @@
                   </li>
                   <li>
                     <div class="youtube">
-                      <a href="https://www.youtube.com/c/Colorlib">
+                      <a href="https://www.youtube.com">
                         <i class="fa fa-youtube" aria-hidden="true"></i>
                       </a>
                     </div>
@@ -199,7 +199,7 @@
                   </li>
                   <li>
                     <div class="linkedin">
-                      <a href="https://www.linkedin.com/company/colorlib">
+                      <a href="https://www.linkedin.com/in/intisher">
                         <i class="fa fa-linkedin" aria-hidden="true"></i>
                       </a>
                     </div>
@@ -207,7 +207,7 @@
                   </li>
                   <li>
                     <div class="instagram">
-                      <a href="https://www.linkedin.com/company/colorlib">
+                      <a href="https://www.instagram.com/intiisher">
                         <i class="fa fa-instagram" aria-hidden="true"></i>
                       </a>
                     </div>
@@ -215,7 +215,7 @@
                   </li>
                   <li>
                     <div class="github">
-                      <a href="https://github.com/puikinsh/">
+                      <a href="https://github.com/intiisher/">
                         <i class="fa fa-github" aria-hidden="true"></i>
                       </a>
                     </div>
