@@ -105,11 +105,10 @@
       <div class="col-sm-6 col-sm-offset-3">
           <div class="well" style="margin-top: 00%;">
           <h3 style="color:whitesmoke; "> <b><u>Say Hello!</u></b></h3>
-          <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
-              <div class="row">
+          <div class="row">
                   <div class="form-group col-sm-5">
-                    <p style="color:whitesmoke; "><strong>Call:+8801710479715 </br> Write:</strong></p>
-                                        
+                    <p style="color:whitesmoke; "><strong>Call:+8801710479715/</br> Write:</strong></p>
+          <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
                       <!-- <label for="name" class="h4">Name</label> -->
                       <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
