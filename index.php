@@ -108,9 +108,8 @@
           <div class="row">
                   <div class="form-group col-sm-5">
                     <p style="color:whitesmoke; "><strong>Call:+8801710479715/</br> Write:</strong></p>
-          <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
-                      <!-- <label for="name" class="h4">Name</label> -->
-                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
+                    <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
+                     <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
                   </div>
 
@@ -143,7 +142,7 @@
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->            
           </section >
             </div>
-            <div style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></div>
+            <h3 style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></h3>
               <div class="row smicons">
                          
               <section >
