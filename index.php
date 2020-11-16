@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Mohammad Arafat Intisher</title>
+  <title>Mohd Arafat Intisher</title>
   <meta name="description" content="Web Apps Developer for ORBL by day. Student of Digital Entrepreneurship at EUV by night. Amateur athlete throughout the week.">
 
   <link rel="stylesheet" href="/main.css">
@@ -25,7 +25,7 @@
   </div>
 
 <div class='home-content'>
-    <h1>Mohd Arafat Intisher</h1>
+    <h1>Mohammad Arafat Intisher</h1>
     <span class='label'>Web Developer, IT System Analyst, amateur athlete</span>
 
     <span class='bigspan'>Nice to meet you!<br/>
