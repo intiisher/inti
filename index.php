@@ -143,20 +143,12 @@
             <section >
         <table>
         <tr>
-            <th style="text-align: center;">
-                <i class="fa fa-phone" aria-hidden="true"></i>
-            </th>
-            <th>
-                <ul style="color: #00A522; "><strong>8801710479715</strong></ul>
-            </th>
-            <th>
-            <li>
-                <div class="phone">
+            <td>
+                <li>
                     <i class="fa fa-phone" aria-hidden="true"></i>
-                </div>
-                <!-- <span>Facebook</span> -->
-            </li>
-            </th>
+                </li>
+            </td>                  
+          
             <td>
                 <li>
                     <ul style="color:whitesmoke; "><strong>+8801710479715</strong></ul>
