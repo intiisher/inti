@@ -104,8 +104,8 @@
     <div class="row" style="background-color:  #00A522; text-align: center;" >
       <div class="col-sm-6 col-sm-offset-3">
           <div class="well" style="margin-top: 00%;">
-          <h3 style="color:whitesmoke; "> <b><u>Send me a message</u></b></h3>
-          <form action="mailto:you@yourdmainhere.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
+          <h3 style="color:whitesmoke; "> <b><u>Say Hello!</u></b></h3>
+          <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
               <div class="row">
                   <div class="form-group col-sm-5">
                       <!-- <label for="name" class="h4">Name</label> -->
@@ -138,7 +138,7 @@
 
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
-          <div style="color:whitesmoke; "> <b><u>Other ways to contact me</u></b></div>
+          <div style="color:whitesmoke; "> <b><u>Find me in social media</u></b></div>
           <div style="text-align: center;">
             <section style="text-align: center;" >
             <ul id="services">
