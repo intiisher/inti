@@ -30,8 +30,8 @@
 
     <span class='bigspan'>Nice to meet you!<br/>
                           I am Mohammad – <br/>
-                          I create & design <br/>
-                          web applications and ideas for products, projects and people.
+                          I design web applications<br/>
+                          and conceptualise digital marketing ideas for products, projects and people.
       
 <!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
@@ -121,11 +121,12 @@
 
                 </div>
 
-<!--                   <div class= "form-group col-sm-6">
+                
+<!--  <div class= "form-group col-sm-6">
                   <!-- <label for="message" class="h4 ">Message</label> -->
-                    <textarea style=" text-align: center;"  id="message" class="form-control" rows="5" placeholder="Enter your message" required></textarea>
-                    <div class="help-block with-errors"></div>
-                  </div> -->
+    <!--                <textarea style=" text-align: center;"  id="message" class="form-control" rows="5" placeholder="Enter your message" required></textarea>
+        <!--            <div class="help-block with-errors"></div>
+                  </div>-->
                     <button type="submit" id="form-submit" class="btn btn-success btn-lg  ">Submit</button>
                     
                   <div id="msgSubmit" class="h3 text-center hidden"></div>
@@ -168,10 +169,11 @@
           </table>
           </section >
             </div>
+            <div style="color:whitesmoke; "> <b><u>My social media footprint</u></b></div>
               <div class="row smicons">
               <section >
                 <ul id="services">
-                  <div style="color:whitesmoke; "> <b><u>My social media footprint</u></b></div>
+                  
                   
                   <li>
                     <div class="facebook" >
