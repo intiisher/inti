@@ -140,9 +140,8 @@
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->
-          <div style="text-align: center;">
-            
-                 <table>
+            <section >
+        <table>
         <tr>
             <th style="text-align: center;">
                 <i class="fa fa-phone" aria-hidden="true"></i>
@@ -150,7 +149,7 @@
             <th>
                 <ul style="color: #00A522; "><strong>8801710479715</strong></ul>
             </th>
-
+            <th>
             <li>
                 <div class="phone">
                     <i class="fa fa-phone" aria-hidden="true"></i>
@@ -165,7 +164,7 @@
             </td>
         </tr>
     </table> 
-              </li>
+             
             
           </section >
             </div>
