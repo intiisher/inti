@@ -139,7 +139,7 @@
 
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
-          <div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div>
+          <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div>
           <div style="text-align: center;">
             <section style="text-align: center;" >
             <ul id="services">
