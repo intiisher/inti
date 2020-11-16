@@ -108,6 +108,9 @@
           <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
               <div class="row">
                   <div class="form-group col-sm-5">
+                    <p style="color:whitesmoke; "><strong>Call me at +8801710479715</strong></p>
+                    <p style="color:whitesmoke; "><strong>Or,</p>
+                    
                       <!-- <label for="name" class="h4">Name</label> -->
                       <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
@@ -151,7 +154,7 @@
           
             <td>
                 <li>
-                    <ul style="color:whitesmoke; "><strong>+8801710479715</strong></ul>
+                    <ul style="color:#00A522;; "><strong>+8801710479715</strong></ul>
                 </li>
             </td>
         </tr>
