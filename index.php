@@ -108,16 +108,16 @@
           <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
               <div class="row">
                   <div class="form-group col-sm-5">
-                    <p style="color:whitesmoke; "><strong>Cellphone: +8801710479715 /</strong></p>
+                    <p style="color:whitesmoke; "><strong>Call:+8801710479715 </br> Write:</strong></p>
                                         
                       <!-- <label for="name" class="h4">Name</label> -->
-                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter name" required data-error="NEW ERROR MESSAGE">
+                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
                   </div>
 
                   <div class="form-group col-sm-5">
                       <!-- <label for="email" class="h4">Email</label> -->
-                      <input style=" text-align: center;"  type="email" class="form-control" id="email" rows="5" placeholder="Enter email" required>
+                      <input style=" text-align: center;"  type="email" class="form-control" id="email" rows="5" placeholder="Enter email address" required>
                       <div class="help-block with-errors"></div>
                   </div>
 
@@ -141,25 +141,7 @@
 
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
-          <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->
-            <section >
-        <table>
-        <tr>
-            <td>
-                <li>
-                    <i class="fa fa-phone" aria-hidden="true"></i>
-                </li>
-            </td>                  
-          
-            <td>
-                <li>
-                    <ul style="color:#00A522;; "><strong>+8801710479715</strong></ul>
-                </li>
-            </td>
-        </tr>
-    </table> 
-             
-            
+          <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->            
           </section >
             </div>
             <div style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></div>
