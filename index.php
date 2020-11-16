@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <h1>Mohammad Arafat Intisher</h1>
   <title>Mohd Arafat Intisher</title>
   <meta name="description" content="Web Apps Developer for ORBL by day. Student of Digital Entrepreneurship at EUV by night. Amateur athlete throughout the week.">
 
@@ -31,7 +31,7 @@
     <span class='bigspan'>Nice to meet you!<br/>
                           I am Mohammad – <br/>
                           I design web applications<br/>
-                          and conceptualise digital marketing ideas for products, projects and people.
+                          and conceptualise digital marketing plans for products, projects and people.
       
 <!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
@@ -139,7 +139,7 @@
 
           <div class="well" style="margin-top: .5%;">
           <div style="text-align: center;">
-          <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div>
+          <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->
           <div style="text-align: center;">
             <section style="text-align: center;" >
             <ul id="services">
@@ -169,8 +169,9 @@
           </table>
           </section >
             </div>
-            <div style="color:whitesmoke; "> <b><u>My social media footprint</u></b></div>
+            <div style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></div>
               <div class="row smicons">
+                         <div style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></div>
               <section >
                 <ul id="services">
                   
