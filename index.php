@@ -142,9 +142,10 @@
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->
           <div style="text-align: center;">
             <section >
+              <ul id="services">
               <i class="fa fa-phone" aria-hidden="true" ></i>
               <li>
-              <ul style="color:whitesmoke; " ><strong>+8801710479715</strong></ul> 
+              <p style="color:whitesmoke; " ><strong>+8801710479715</strong></p> 
               </li>
             
           </section >
