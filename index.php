@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Mohd Arafat Intisher</title>
+  <title>Mohammad Arafat Intisher</title>
   <meta name="description" content="Web Apps Developer for ORBL by day. Student of Digital Entrepreneurship at EUV by night. Amateur athlete throughout the week.">
 
   <link rel="stylesheet" href="/main.css">
@@ -28,10 +28,15 @@
     <h1>Mohd Arafat Intisher</h1>
     <span class='label'>Web Developer, IT System Analyst, amateur athlete</span>
 
-    <span class='bigspan'>Currently at <br/> Orogenic Resources— <br/>
+    <span class='bigspan'>Nice to meet you!
+                          I am Mohammad –
+                          I create & design web applications and ideas for products, projects and people.
+      
+<!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
         ➁&nbsp;designing IT systems and platforms, and <br/>
-          ➂&nbsp;administering Servers and Databases.</span>
+          ➂&nbsp;administering Servers and Databases.</span> -->
+  </span>
 
     <p><a href='/work' class='bigLinkJob' style="color: #00A522;"><u> - Web Apps Developer for ORBL by day.</u></a></p>
     <p><a href='/work' class='bigLinkUni' style="color: #00A522;"><u> - Student of Digital Entrepreneurship at EUV by night.</u></a></p>
