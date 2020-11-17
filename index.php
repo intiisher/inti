@@ -107,7 +107,8 @@
           <h3 style="color:whitesmoke; "> <b><u>Say Hello!</u></b></h3>
           <div class="row">
                   <div class="form-group col-sm-5">
-                    <p style="color:whitesmoke; "><strong>Call:+8801710479715/</br> Write:</strong></p>
+                    <p style="color:whitesmoke; "><strong>Call:+8801710479715</strong>
+                      <p><b><u> Write:</b></u></p>
                     <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
@@ -137,7 +138,7 @@
     </div>
     <div class="row " style="background-color:  #00A522; " >
 
-          <div class="well" style="margin-top: .5%;">
+          <div class="well" style="margin-top: 1%;">
           <div style="text-align: center;">
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->            
           </section >
