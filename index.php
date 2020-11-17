@@ -32,7 +32,7 @@
                           I am Mohammad – <br/>
                           I design web applications<br/>
                           and conceptualise digital marketing plans for products, projects and people.
-      <p><a href='resume.php' class='bigLinkJob' style="color: #00A522;"><u> * Find my resume here. *</u></a></p>
+     <a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (*Find my resume here.*)</u></a>
       
 <!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
@@ -106,10 +106,9 @@
       <div class="col-sm-6 col-sm-offset-3">
           <div class="well" style="margin-top: 00%;">
           <h3 style="color:whitesmoke; "> <b><u>Say Hello!</u></b></h3>
-                                <p style="color:whitesmoke; "><strong>Call:+8801710479715</strong>
+                                <p style="color:whitesmoke; "><strong>+8801710479715</strong>
           <div class="row">
                   <div class="form-group col-sm-5">
-
                       <h3 style="color:whitesmoke;"><b><u> Write:</b></u></h3>
                     <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
