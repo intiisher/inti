@@ -30,7 +30,7 @@
 
     <span class='bigspan'>Nice to meet you!<br/>
                           I am Mohammad – <br/>
-                          I design web applications<br/>
+                          I write codes for web applications<br/>
                           and conceptualise digital marketing plans for products, projects and people.
      <p><a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (*Find my resume here.*)</u></a></p>
       
@@ -109,7 +109,7 @@
                                 <p style="color:whitesmoke; "><strong>+8801710479715</strong>
           <div class="row">
                   <div class="form-group col-sm-5">
-                      <h3 style="color:whitesmoke;"><b><u> Write:</b></u></h3>
+                      <h3 style="color:whitesmoke;"><b><u> Write to me</b></u></h3>
                     <form action="mailto:intisher@gmail.com" method="post" enctype="text/plain" role="form" id="contactForm" data-toggle="validator" class="shake">
                      <input style=" text-align: center;" type="text" class="form-control" id="name" placeholder="Enter your name" required data-error="NEW ERROR MESSAGE">
                       <div class="help-block with-errors"></div>
@@ -144,7 +144,7 @@
           <!--<div style="color:whitesmoke; "> <b><u>Cellphone</u></b></div> -->            
           </section >
             </div>
-            <h3 style="color:whitesmoke; text-align: center; "> <b><u>My social media footprint</u></b></h3>
+            <h3 style="color:whitesmoke; text-align: center; "> <b><u>Let's connect!</u></b></h3>
               <div class="row smicons">
                          
               <section >
