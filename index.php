@@ -28,6 +28,39 @@
     <h1>Mohammad Arafat Intisher</h1>
     <span class='label'>Web Developer, IT System Analyst, Amateur Athlete</span>
 
+          <section id="about" class="section">
+            <div class="section-header">
+                <h1 class="section-header-title">About</h1>
+            </div>
+            <div class="container about">
+                <div class="about-info">
+                    <p>
+                        Hello, I'm Tutul, a Front End Developer based in Bangladesh. I'm a passionate developer who loves coding, web technology and JavaScript.
+                    </p>
+                    <p>
+                        The passion of coding initiated in me in 2009 after reading a famous computer journal about web technology and freelancing. Since then the love continues.
+                    </p>
+                    <p>
+                        I first learnt HTML and CSS in 2011 but I didn't have a computer then. After years of study and part-time works I was able to buy a laptop in 2015. I started again but discontinued after a few months when I found JavaScript too hard and I didn't have a proper guidance.
+                    </p>
+                    <p>
+                        In February 17, 2020, I started again after being persuaded by the <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> hashtag and <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>. I put my hours, never gave up in this time. Since then I built 32 websites, 50 vanilla JavaScript projects,  50+ CSS components and earned 5 KYU Badge on <a href="https://codewars.com/users/TutulDevs">
+                            CodeWars
+                        </a>
+                    </p>
+                    <p>
+                        Now I'm more goal oriented, focused and hungry than ever. I'm currently learning Reactjs and going to build several projects.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+  
+  
+  
+  
+  
+  
     <span class='bigspan'>Nice to meet you!<br/>
                           I am Mohammad – <br/>
                           I write codes for web applications<br/>
