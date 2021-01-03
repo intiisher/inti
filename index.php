@@ -35,7 +35,8 @@
             
             <div class="container about">
                 <div class="about-info">
-                  <span class='bigspan'>Nice to meet you!<br/>
+<!--                   <span class='bigspan'>Nice to meet you!<br/> -->
+                  <span>
                           I am Mohammad – <br/>
                           I write codes for web applications<br/>
                           and conceptualise digital marketing plans for products, projects and people.
