@@ -47,17 +47,6 @@
             </div>
         </section>
 
-  
-  
-  
-  
-  
-  
-    <span class='bigspan'>Nice to meet you!<br/>
-                          I am Mohammad – <br/>
-                          I write codes for web applications<br/>
-                          and conceptualise digital marketing plans for products, projects and people.
-     <p><a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (*Find my resume here.*)</u></a></p>
       
 <!--       Currently at <br/> Orogenic Resources— <br/>
        ➀&nbsp;working on Web Application development,<br/>
