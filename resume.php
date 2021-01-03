@@ -71,11 +71,17 @@
             <th> To</th>
           </tr>
 
+           <tr>
+            <td>European New School of Digital Studies (ENS)</td>
+            <td>Student Reseach Assistant (Wissenschaftliche Hilfskraft)</td>
+            <td>JAN/2021</td>
+            <td>DEC/2021</td>
+          </tr>
           <tr>
             <td>Orogenic Resources Ltd.</td>
             <td>Web Application Support Engineer</td>
             <td>OCT/2020</td>
-            <td>- -</td>
+            <td>FEB/2021</td>
           </tr>
           <tr>
             <td>Flymore Tours & Travels </td>
