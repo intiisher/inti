@@ -81,7 +81,7 @@
             <td>Orogenic Resources Ltd.</td>
             <td>Web Application Support Engineer</td>
             <td>OCT/2020</td>
-            <td>FEB/2021</td>
+            <td>JAN/2021</td>
           </tr>
           <tr>
             <td>Flymore Tours & Travels </td>
