@@ -71,7 +71,7 @@
             <th> To</th>
           </tr>
 
-           <tr>
+<!--            <tr>
             <td>European New School of Digital Studies (ENS)</td>
             <td>Student Reseach Assistant (Wissenschaftliche Hilfskraft)</td>
             <td>JAN/2021</td>
@@ -82,7 +82,7 @@
             <td>Web Application Support Engineer</td>
             <td>OCT/2020</td>
             <td>JAN/2021</td>
-          </tr>
+          </tr> -->
           <tr>
             <td>Flymore Tours & Travels </td>
             <td>Information Technology Manager</td>
@@ -147,30 +147,27 @@
       <div class="skills">
           <div class="skills-heading grey">
                 <i class="fas fa-tools icon"></i>
-                <h2>Programming Skills</h2>
+                <h2>Tech Skills</h2>
           </div>
 
         <ul>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>Javascript</li>
-          <li>jQuery</li>
-          <li>PHP</li>
-          <li>PLSQL</li>
-          <li>Python</li>
+          <li>Programming : C, Python , R , PHP.</li>
+          <li>Web Dev : Html , Css , JS.</li>
+          <li>Data Science - Numpy ,Pandas.</li>
+
         </ul>
       </div>
       <div class="activities">
         <div class="act-heading grey">
           <i class="fab fa-creative-commons-nd icon"></i>
-          <h2>Activities</h2>
+          <h2>Hobby</h2>
         </div>
 
         <p>
           > My most favorite things to do during my free times, are outdoor activities like- running, cycling, CrossFit, or swimming. I am an amateur athlete by passion, who also believes in competitive racing as a medium of self-development. 
         </br>  > I am part of an active lifestyle platform, where we provide free bodyweight exercise and train with the people, who want to be fit and healthy. 
-        </br>  > Once upon a time, I used to love writing and I wanted to pursue a career in it. But unfortunately, I was never good enough for that, and eventually, I had to drop that. 
-        </br>  > I remember I was very afraid of maths until my teenage. In college, I met a math professor, who was very patient and generous to help me to discover the unseen, wonderful world of mathematics. And, along with many other areas in my life, that has greatly helped me to easily adopt new logic, algorithm and data structures in coding.
+<!--         </br>  > Once upon a time, I used to love writing and I wanted to pursue a career in it. But unfortunately, I was never good enough for that, and eventually, I had to drop that. 
+        </br>  > I remember I was very afraid of maths until my teenage. In college, I met a math professor, who was very patient and generous to help me to discover the unseen, wonderful world of mathematics. And, along with many other areas in my life, that has greatly helped me to easily adopt new logic, algorithm and data structures in coding. -->
         </br>  > Currently, I am training to finish my maiden marathon strongly with sub 3hr 45mins timing. The timing is merely a target, I rather want to enjoy the process.
 
         </p>
