@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Mohd Arafat Intisher</title>
-  <meta name="description" content="Web Apps Developer for ORBL by day. Student of Digital Entrepreneurship at EUV by night. Amateur athlete throughout the week.">
+  <title>Mohammad Arafat Intisher</title>
+  <meta name="description" content="----">
 
   <link rel="stylesheet" href="/main.css">
 
@@ -38,10 +38,10 @@
                   <span class='bigspan'>Nice to meet you!<br/>
                   
                          <span class='bigspan' color='black' STYLE="font-size:5mm"> I am Mohammad <br/>
-                          I am a student, pursuing Masters of Digital Entrepreneurship at <a href = 'https://europeannewschool.com/' class='bigLinkJob'>ENS<br/>
-                          I have 5+ years of experience in Information Technology sector.<br/>
+                          I am a student, pursuing Masters of Digital Entrepreneurship at <a href = 'https://europeannewschool.com/' class='bigLinkJob'>ENS</a><br/>
+                          I have 5+ years of working experience in Information Technology sector.<br/>
                           Being a technology-enthusiast, I love to explore new technologies and leverage it to solve real-life problems. <br/>
-                          I'm driven by the will to create an impact and encourage diversity and inclusion in communities. 
+                          I'm driven by the will to create an impact with my initiatives and encourage diversity and inclusion in communities. 
                          <p><a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (Here is my resume.)</u></a></p>  
 
                 </div>
