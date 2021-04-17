@@ -26,24 +26,24 @@
 
 <div class='home-content'>
     <h1>Mohammad Arafat Intisher</h1>
-    <span class='label'>Web Developer, IT System Analyst, Amateur Athlete</span>
+    <span class='label'>Web Developer, IT Analyst, Amateur Athlete</span>
 
           <section id="about" class="section">
-            <div class="section-header">
+
+            <div class="container about">
+                        <div class="section-header">
                 <h1 class="section-header-title">About</h1>
             </div>
-            
-            <div class="container about">
                 <div class="about-info">
                   <span class='bigspan'>Nice to meet you!<br/>
                   
-                          I am Mohammad <br/>
-                          I write codes for web applications<br/>
-                          and conceptualise digital marketing plans for products, projects and people.
-                  <p><a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (*Find my resume here.*)</u></a></p>  
-                  
-                  
-                  
+                         <span class='bigspan' color='black'> I am Mohammad <br/>
+                          I am a student at ENS of European University of Viadrina Frankfurt(Oder), pursuing Masters of Digital Entrepreneurship<br/>
+                          I have 5+ years of experience in Information Technology sector.<br/>
+                          Being a technology-enthusiast, I love to explore new technologies and leverage it to solve real-life problems. <br/>
+                          I'm driven by the will to create an impact and encourage diversity and inclusion in communities. 
+                         <p><a href='resume.php' class='bigLinkJob' style="color: blue;"><u> (Here is my resume.)</u></a></p>  
+
                 </div>
             </div>
         </section>
@@ -54,11 +54,15 @@
         ➁&nbsp;designing IT systems and platforms, and <br/>
           ➂&nbsp;administering Servers and Databases.</span> -->
   </span>
-
-    <p><a href='https://orogenic.com.my/' class='bigLinkJob' style="color: #00A522;"><u> - Web Apps Developer for Orogenic Resources by day.</u></a></p>
-    <p><a href='https://europeannewschool.com/' class='bigLinkUni' style="color: #00A522;"><u> - Student of Digital Entrepreneurship at ENS by night.</u></a></p>
-    <p><a href='https://aalps.org/' class='bigLinkAth' style="color: #00A522;"><u> - Amateur athlete throughout the week.</u></a></p>
-
+<section id="about" class="section">
+    <div class="container about">
+                        <div class="section-header">
+                <h1 class="section-header-title">Tech Skills</h1>
+            </div>
+    <p><a  class='bigLinkJob' style="color: #00A522;"><u> - Programming : C, Python , R , PHP.</u></a></p>
+    <p><a  class='bigLinkUni' style="color: #00A522;"><u> - Web Dev : Html , Css , Js.</u></a></p>
+    <p><a  class='bigLinkAth' style="color: #00A522;"><u> - Data Science - Numpy ,Pandas.</u></a></p>
+</section>
     <!-- <h2>Talks</h2>
 
     <table class='elsewhere-list'>
@@ -244,4 +248,3 @@
   </body>
 
 </html>
- -->
