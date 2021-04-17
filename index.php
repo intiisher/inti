@@ -32,13 +32,13 @@
 
             <div class="container about">
                         <div class="section-header">
-                <h1 class="section-header-title">About</h1>
+<!--                 <h1 class="section-header-title">About</h1> -->
             </div>
                 <div class="about-info">
                   <span class='bigspan'>Nice to meet you!<br/>
                   
-                         <span class='bigspan' color='black'> I am Mohammad <br/>
-                          I am a student at ENS of European University of Viadrina Frankfurt(Oder), pursuing Masters of Digital Entrepreneurship<br/>
+                         <span class='bigspan' color='black' STYLE="font-size:5mm"> I am Mohammad <br/>
+                          I am a student, pursuing Masters of Digital Entrepreneurship at <a href = 'https://europeannewschool.com/' class='bigLinkJob'>ENS<br/>
                           I have 5+ years of experience in Information Technology sector.<br/>
                           Being a technology-enthusiast, I love to explore new technologies and leverage it to solve real-life problems. <br/>
                           I'm driven by the will to create an impact and encourage diversity and inclusion in communities. 
